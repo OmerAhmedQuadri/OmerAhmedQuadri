@@ -11,9 +11,10 @@ Software Engineer and technologist.
 ![](https://github-readme-stats.vercel.app/api?username=OmerAhmedQuadri&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=OmerAhmedQuadri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmerAhmedQuadri&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+<!-- 
 ### ✍️ Random Dev Quote
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox) -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox) 
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OmerAhmedQuadri&icon=0&color=10)](https://visitcount.itsvg.in)
