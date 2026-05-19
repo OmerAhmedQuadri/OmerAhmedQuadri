@@ -9,7 +9,7 @@
  ╚════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
 </pre>
 
-**Software Engineer · Lead Instructor · IoT Builder**
+**Software Engineer**
 
 *Building modern, scalable, user-focused applications — and teaching others to do the same.*
 
