@@ -110,7 +110,15 @@ I'm a Software Engineer based in Hyderabad, India — focused on full-stack deve
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Neon DB](https://img.shields.io/badge/Neon%20DB-%23000000.svg?style=for-the-badge)
 ![PgAdmin](https://img.shields.io/badge/PgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**IoT & Hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-%23000000.svg?style=for-the-badge)
 -->
+
+
 **Languages**
 `JavaScript (ES6+)` `TypeScript` `Python` `C`
 
@@ -131,6 +139,9 @@ I'm a Software Engineer based in Hyderabad, India — focused on full-stack deve
 
 **Tools**
 `Git` `Linux CLI` `Postman` `Figma` `Neon DB` `PgAdmin`
+
+**IoT & Hardware**
+`Arduino` `Raspberry Pi` `Microcontrollers` `Blynk Console`
 
 ---
 
