@@ -124,7 +124,7 @@ I'm a Software Engineer based in Hyderabad, India — focused on full-stack deve
 `JavaScript (ES6+)` `TypeScript` `Python` `C`
 
 **Frontend**
-`React` `Next.js` `Tailwind CSS` `Responsive Design` `Performance Optimization`
+`React` `Next.js` `Tailwind CSS` `HTML` `CSS` `Responsive Design`
 
 **Backend**
 `Node.js` `Express` `REST APIs` `JWT / OAuth` `Middleware Architecture`
