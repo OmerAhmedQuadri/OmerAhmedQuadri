@@ -28,8 +28,10 @@
 I'm a Software Engineer based in Hyderabad, India — focused on full-stack development, DevOps practices, and IoT.
 
 ---
-<!--
+
 ## Technical Skills
+
+<!--
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -65,7 +67,7 @@ I'm a Software Engineer based in Hyderabad, India — focused on full-stack deve
 ![PgAdmin](https://img.shields.io/badge/PgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 -->
 <!--
-## Technical Skills
+
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -117,7 +119,6 @@ I'm a Software Engineer based in Hyderabad, India — focused on full-stack deve
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-%23000000.svg?style=for-the-badge)
 -->
-
 
 **Languages**
 `JavaScript (ES6+)` `TypeScript` `Python` `C`
