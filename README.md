@@ -131,6 +131,7 @@ I'm a Software Engineer based in Hyderabad, India — focused on full-stack deve
 
 **Tools**
 `Git` `Linux CLI` `Postman` `Figma` `Neon DB` `PgAdmin`
+
 ---
 
 <div align="center">
