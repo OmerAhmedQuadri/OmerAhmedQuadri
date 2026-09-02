@@ -127,16 +127,19 @@ I'm a Software Engineer based in Hyderabad, India — focused on full-stack deve
 `React` `Next.js` `Tailwind CSS` `HTML` `CSS` `Responsive Design`
 
 **Backend**
-`Node.js` `Express` `REST APIs` `JWT / OAuth` `Middleware Architecture`
+`Node.js` `Express` `REST APIs` `Authentication` `Authorization` `JWT / OAuth` `Middleware Architecture`
 
 **Databases**
 `PostgreSQL` `MySQL` `MongoDB`
 
-**DevOps & Deployment**
-`AWS (EC2, S3)` `Nginx` `Vercel` `SSL/TLS`
+**DevOps & CI/CD**
+`Docker` `Nginx` `Linux` `GitHub Actions` `Jenkins` `Terraform` `Vercel` `SSL/TLS`
 
-**System Design**
-`Scalable API Design` `Microservices` `Rate Limiting` `Background Jobs` `Logging`
+**Cloud & AWS**
+`EC2` `Lambda` `API Gateway` `Amplify` `S3` `IAM`
+
+**System Design & Architecture**
+`Scalable API Design` `Microservices` `Rate Limiting` `Logging` `Error Handling` `Background Jobs` `Multi-tenancy`
 
 **Tools**
 `Git` `Linux CLI` `Postman` `Figma` `Neon DB` `PgAdmin`
