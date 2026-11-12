@@ -29,7 +29,7 @@ I'm a Software Engineer based in Hyderabad, India — focused on full-stack deve
 
 ---
 
-## Technical Skills
+## Technical Stack
 
 <!--
 
